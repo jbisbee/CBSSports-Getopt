@@ -183,7 +183,7 @@ By default, every command line script that uses CBSSports::Getopt will be able t
 
 Leading/trailing whitespace and comments in the '.rc' files are removed before processing.
 
-=head1 Dependencies
+### Dependencies
 
 CBSSports::Getopt has the following dependancies:
 
